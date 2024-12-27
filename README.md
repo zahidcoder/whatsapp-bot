@@ -83,7 +83,7 @@ The `questions-sh.json` file defines the survey questions. Below is an example f
 
 1. Start the bot:
    ```bash
-   node <script_name>.js
+   node bot.js
    ```
 
 2. When the bot runs, it will check for the presence of `questions-sh.json`. If the file is missing or invalid, the bot will throw an error and stop execution.
