@@ -12,8 +12,8 @@ This project is a chatbot implemented using `venom-bot` to send and manage surve
 
 1. Clone this repository:
    ```bash
-   git clone <repository_url>
-   cd <repository_directory>
+   git clone https://github.com/zahidcoder/whatsapp-bot
+   cd whatsapp-bot
    ```
 
 2. Install the dependencies:
